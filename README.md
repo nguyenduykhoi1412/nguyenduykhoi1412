@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B,+I'm+Nguyen+Duy+Khoi!" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://github.com/nguyenleduy03/nguyenleduy03/blob/main/duy.png" 
+  <img src="https://github.com/nguyenduykhoi1412/nguyenduykhoi1412/blob/main/kid.jpeg" 
       style="width: 50%; border-radius: 100%;" solid #00C9A7;" 
        alt="Avatar" />
 </p>
